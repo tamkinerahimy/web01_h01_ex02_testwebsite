@@ -1,0 +1,19 @@
+h1{
+    color: palevioletred;
+    font-family: sans-serif;
+}
+h2{
+    color: paleturquoise;
+    font-family: sans-serif;
+}
+h3{
+    color: papayawhip;
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+    color: white;
+}
+body{
+    background-color: pink;
+}
